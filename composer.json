@@ -1,5 +1,5 @@
 {
-    "name": "klarna/module-core",
+    "name": "klarnadev/module-core",
     "description": "Klarna Core Magento 2 Extension",
     "type": "magento2-module",
     "license": "Apache-2.0",
